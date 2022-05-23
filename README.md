@@ -1,1 +1,1 @@
-# dummy_django
+# Production Ready Blank React Django Project
